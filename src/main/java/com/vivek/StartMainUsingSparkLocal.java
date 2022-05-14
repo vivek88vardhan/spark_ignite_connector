@@ -1,9 +1,5 @@
-package com.spaceandtime;
+package com.vivek;
 
-import org.apache.ignite.Ignite;
-import org.apache.ignite.IgniteCache;
-import org.apache.ignite.Ignition;
-import org.apache.ignite.configuration.CacheConfiguration;
 import org.apache.ignite.spark.IgniteDataFrameSettings;
 import org.apache.spark.SparkException;
 import org.apache.spark.sql.Dataset;

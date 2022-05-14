@@ -1,4 +1,4 @@
-package com.spaceandtime;
+package com.vivek;
 
 import org.apache.spark.sql.AnalysisException;
 import org.apache.spark.sql.ignite.IgniteSparkSession;
